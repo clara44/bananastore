@@ -1,0 +1,28 @@
+body{
+	
+	background-color: #8FBC8F;
+	float:left;
+	
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+body img{
+	padding-bottom: 25px;
+	width: 220px;
+	height: 200px;
+
+}
+body ul li{
+	display:flex;
+	justify-content: center;
+	list-style-type:none;
+}
+h1{
+
+	font-weight:bold;
+}
+h2{
+	text-align: center;
+	font-weight:lighter;
+}
