@@ -7,6 +7,10 @@
 		<title>PRODUCTS</title>
 		
 	</head>
+	<header>
+	<img src="">
+	
+
 	<body>
 
 	<h1> PRODUITS</h1>

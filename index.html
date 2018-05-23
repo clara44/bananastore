@@ -1,13 +1,19 @@
-    <html>
+<html>
     <head>
     <title>Formulaire d'identification</title>
+
     </head>
 
     <body>
+    <?php 
+    print_r $session
+
+    ?>
+
     <form action="login.php" method="post">
-    Votre login : <input type="text" name="login">
+    Votre login : <input type="text" name="email">
     <br />
-    Votre mot de passé : <input type="password" name="pwd"><br />
+    Votre mot de passe : <input type="password" name="password"><br />
     <input type="submit" value="Connexion">
     </form>
 
